@@ -1,1 +1,22 @@
+public class GUI {
 
+	private JFrame myFrame;
+	private JButton myButton;
+	private JButton myButton2;
+
+	public GUI()
+	{
+	  public static void main(String[] args)
+	  {
+	    myFrame = new JFrame("Front End");
+	  	myFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	  `	myFrame.setLocation(400,400);
+	  
+	    Box bigBox = new Box
+	    
+
+	  
+	  
+	  
+	  
+	  }
